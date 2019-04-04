@@ -45,7 +45,6 @@
       "dist",
       "node_modules",
       "out",
-      ".git"
     ],
     "file_type_method": "EXCLUDE",
     "file_types": [
